@@ -26,4 +26,6 @@ npm run start
 npm run build
 ```
 ### 开发环境
-
+| 软件 | 版本 | 
+|-------|-------|
+| node | 20 |
