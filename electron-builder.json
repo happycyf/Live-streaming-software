@@ -1,0 +1,23 @@
+{
+  "productName":"造梦工厂",
+  "appId":"ZaoMengGongChang",
+  "directories":{
+    "output":"./dists"
+  },
+
+  "win":{
+    
+    "target":[{
+      "target":"nsis",
+      "arch":["x64"]
+    }] 
+  },
+  "nsis":{
+    
+    "oneClick":false,
+    "perMachine":true,
+    "allowToChangeInstallationDirectory": true,
+    
+    "shortcutName":"造梦工厂"
+  }
+}
