@@ -2,7 +2,7 @@
 
 这是一个vue3+vite的直播后台
 本人只是学生项目不会维护所以遇到问题请自己解决
-
+[客户端](https://github.com/happycyf/Live-streaming-playback)[服务端](https://github.com/happycyf/Live-streaming-backend)
 
 
 ### 安装依赖
