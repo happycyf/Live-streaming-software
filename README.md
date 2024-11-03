@@ -16,7 +16,8 @@ npm install
 npm run dev
 ```
 ### 真正启动命令
-此命令是结合命令
+此命令是结合命令 
+启动前请先修改推流地址改为你的服务器地址在/src/components/StartLive.vue的319行的服务器路径改为你自己的服务器路径
 ```
 npm run start
 ```
